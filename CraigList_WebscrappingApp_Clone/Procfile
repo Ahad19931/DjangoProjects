@@ -1,0 +1,1 @@
+web: gunicorn CraigList_WebscrappingApp.wsgi
