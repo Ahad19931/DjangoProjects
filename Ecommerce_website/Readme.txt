@@ -10,4 +10,5 @@ It is an ecommerce website developed with python Django framework. It has the fo
 
 WEBSITE SCREENSHOT
 
-<img src="staticfiles/images/book.jpg" width=100>
+![screenshot](https://user-images.githubusercontent.com/49030315/98466053-661b2780-21cd-11eb-90b1-13c58ab4f9d9.png)
+
