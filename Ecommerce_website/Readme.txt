@@ -7,3 +7,7 @@ It is an ecommerce website developed with python Django framework. It has the fo
 
 2) The dependencies needed to be downloaded for running the application 
    can be found in the requirements.txt file
+
+WEBSITE SCREENSHOT
+
+<img src="staticfiles/images/book.jpg" width=100>
