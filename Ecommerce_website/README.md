@@ -1,6 +1,8 @@
-It is an ecommerce website developed with python Django framework. It has the following functionality,
-- Allows the user to continue shopping as a guest as well as logged in member.
-- Has the fully funtional checkout proccedure with the paypal and debitcard checkout as the two option.
+It is an e-commerce website developed with Python Django framework. It has the following functionality,
+
+Allows the user to continue shopping as a guest as well as a logged-in member.
+Has the fully functional checkout procedure with the PayPal and debit card checkout as the two options.
+
 
 1) The app can be run on the local host using the command,
 	python manage.py runserver
